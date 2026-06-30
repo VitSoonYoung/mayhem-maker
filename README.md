@@ -5,7 +5,7 @@ A free fan-made tool to create custom <strong>ARAM Mayhem Augments</strong>. Cho
 Supported keywords are automatically highlighted with colors like
 Attack Damage, Ability Power, On-hit, Critical Strike, etc...
 
-Try it here: 
+Try it here: [https://vitsoonyoung.github.io/mayhem_maker](https://vitsoonyoung.github.io/mayhem_maker)
 
 ![Preview of mayhem-maker tool showing augment creation interface](src/assets/og-preview.png)
 
